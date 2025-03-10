@@ -1,0 +1,3 @@
+id	filename	md5	size	state
+14a20083-2635-48fa-8c97-3d0a554ec028	14a20083-2635-48fa-8c97-3d0a554ec028/6d16549b-4499-4258-9048-4bc74f066db9.wxs.aliquot_ensemble_masked.maf.gz	774faf4fdab4b3dc7491e84ca4026e5c	46696	validated
+8068a146-12a4-4cd0-aefa-cf02c7fbf54d	8068a146-12a4-4cd0-aefa-cf02c7fbf54d/c0d0c78d-0157-4b4f-80e0-b398c75ad18d.wxs.aliquot_ensemble_masked.maf.gz	3d16dd3b381d3e1669960eea1082fc8b	13763	validated
