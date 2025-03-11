@@ -20,12 +20,23 @@ For official documentation, visit: https://bioconductor.org/packages/release/bio
 Launched by National Cancer Institute (NCI) in 2016, GDC provides repository of standardized cancer genomic data sets and computational platform for cancer researchers who need to understand cancer, its clinical progression, and response to therapy. For more information visit the official GDC link: https://gdc.cancer.gov/about-gdc/gdc-overview
 
 **Required R Packages**  
+---
 - `TCGAbiolinks` – Query and download TCGA data  
 - `tidyverse` – Data manipulation  
 - `maftools` – Mutation annotation format visualization
 - `pheatmap` – Heatmap visualization
 - `SummarizedExperiment` – Data structure for genomics data
 - `sesame` – DNA methylation analysis
+
+**0. Prerequisites**  
+Before running, make sure you have installed all the necessary dependencies from Bioconductor packages. You can install them using the following commands:  
+```
+if (!requireNamespace("BiocManager", quietly = TRUE))
+    install.packages("BiocManager")
+
+BiocManager::install(c("TCGAbiolinks", "maftools", "SummarizedExperiment", "sesame"))
+install.packages(c("tidyverse", "pheatmap"))
+```
 
 
 
