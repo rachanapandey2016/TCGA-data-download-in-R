@@ -1,4 +1,4 @@
-# TCGA-data-download-in-R  
+# Downloading data from GDC portal in R  
 ---  
 **Project Overview**  
 ---  
