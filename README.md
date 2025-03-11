@@ -12,7 +12,7 @@ TCGAbiolinks is an R/Bioconductor package for integrative analysis with GDC data
 - Provide the means to carry out different standard analyses.
 - Enable easy reproduction of earlier research results.
 
-  In more detail, the package provides multiple methods for analysis, such as differential expression analysis and identifying differentially methylated regions. It also includes various visualization methods, such as survival plots, volcano plots, and starburst plots, making it easier to develop complete analysis pipelines. TCGAbiolinks is an R/Bioconductor package specifically designed for integrative analysis with GDC data.
+In more detail, the package provides multiple methods for analysis, such as differential expression analysis and identifying differentially methylated regions. It also includes various visualization methods, such as survival plots, volcano plots, and starburst plots, making it easier to develop complete analysis pipelines. TCGAbiolinks is an R/Bioconductor package specifically designed for integrative analysis with GDC data.
 For official documentation, visit: https://bioconductor.org/packages/release/bioc/html/TCGAbiolinks.html Reference Manual: https://bioconductor.org/packages/release/bioc/manuals/TCGAbiolinks/man/TCGAbiolinks.pdf
 
 **Genomic Data Commons**  
