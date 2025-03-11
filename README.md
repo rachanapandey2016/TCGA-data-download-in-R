@@ -29,6 +29,7 @@ Launched by National Cancer Institute (NCI) in 2016, GDC provides repository of 
 - `sesame` – DNA methylation analysis
 
 **0. Prerequisites**  
+---  
 Before running, make sure you have installed all the necessary dependencies from Bioconductor packages. You can install them using the following commands:  
 ```
 if (!requireNamespace("BiocManager", quietly = TRUE))
